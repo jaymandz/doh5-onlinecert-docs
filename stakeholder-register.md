@@ -22,7 +22,7 @@ _As of May 8, 2023_
 - PHIVCF: Ms. Lilian Rose Encisa
 - TB-DOTS: Ms. Ruby Jeremias
 - Others:
-  - Dra. Jannish Alcala-Arellano
+  - Dr. Jannish Alcala-Arellano
   - Samuel David Banico
   - Maita Bobis
   - Dr. Monrey Mancilla
