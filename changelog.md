@@ -1,5 +1,17 @@
 # Changelog
 
+## 20230519
+
+- __Added__ health facility adding, editing, and deleting features for
+admin users.
+- __Added:__ Certificates for TB-DOTS can now be generated after compliance
+by rural health units and hospitals.
+- __Added__ functionality for admin users that allows them to add, edit,
+and delete health facilities.
+- __Fixed__ display of health facility's province and city/municipality in
+the MBFHFI tool for requestors.
+- TBD
+
 ## 20230512
 
 - __Added__ certificate templates for ABTC and TB-DOTS.
