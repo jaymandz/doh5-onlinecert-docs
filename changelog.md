@@ -8,9 +8,10 @@ admin users.
 by rural health units and hospitals.
 - __Added__ functionality for admin users that allows them to add, edit,
 and delete health facilities.
+- __Changed:__ Reply letters are now rendered with the names of respective
+chief executives like governors and mayors.
 - __Fixed__ display of health facility's province and city/municipality in
 the MBFHFI tool for requestors.
-- TBD
 
 ## 20230512
 
