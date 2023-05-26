@@ -1,5 +1,12 @@
 # Changelog
 
+## 20230526
+
+- __Added__ a skip button in the email confirmation page.
+- __Changed__ names of cities and municipalities in a seeder to match those
+in the National Health Facility Registry to avoid duplicates when uploading
+health facility data.
+
 ## 20230519
 
 - __Added__ health facility adding, editing, and deleting features for
