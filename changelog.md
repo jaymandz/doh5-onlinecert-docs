@@ -1,5 +1,18 @@
 # Changelog
 
+## 20230602
+
+- __Added__ the ability to insert and update signatories for reply letters
+in the database.
+- __Added:__ When approving or rejecting certification requests, the
+Secretariat can now write messages which will be included in the emails
+that will be sent to the requestor.
+- __Added:__ Certifiers can now pass or fail requestors by clicking on
+buttons that have been included in their views of the assessment tool.
+- __Added:__ Work has begun on the FSFPC assessment tool.
+- __Changed:__ Additions by certifiers to any ABTC assessment tool can now
+be saved.
+
 ## 20230526
 
 - __Added__ a skip button in the email confirmation page.
