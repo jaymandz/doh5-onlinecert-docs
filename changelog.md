@@ -1,5 +1,25 @@
 # Changelog
 
+## 20230609
+
+- __Added__ activity logs via [spatie/laravel-activitylog](https://spatie.be/docs/laravel-activitylog/v4/introduction).
+- __Added__ functionality for admin users to be able to update user
+information and delete their accounts.
+- __Added:__ Re-assessment of requestors with incomplete tools has now been
+included in the certification process.
+- __Added:__ Secretariat users now have the functionality to add, update,
+and delete signatories that will be used when generating letters.
+- __Added:__ Secretariat users can now specify the signatories that will
+appear in the reply letter that will be generated once they approve any
+certification request.
+- __Added__ suffixes which will appear in the full names of users.
+- __Added:__ Approval letters are now generated upon certification of
+requests by the Secretariat.
+- __Changed:__ Names of users have now been broken down into first, middle,
+and last names.
+- __Fixed:__ Connectivity and reception is now being checked when sending
+emails.
+
 ## 20230602
 
 - __Added__ the ability to insert and update signatories for reply letters
