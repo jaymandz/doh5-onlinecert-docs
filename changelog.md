@@ -1,5 +1,10 @@
 # Changelog
 
+## 20230616
+
+- __Added__ the following fields in the requestor signup form: title, date
+of birth, and gender.
+
 ## 20230609
 
 - __Added__ activity logs via [spatie/laravel-activitylog](https://spatie.be/docs/laravel-activitylog/v4/introduction).
