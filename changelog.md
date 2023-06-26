@@ -1,9 +1,24 @@
 # Changelog
 
+## 20230623
+
+- __Added__ functionality for Secretariat users to be able to confirm
+facility signup requests and assign the users to their respective
+facilities.
+- __Added__ the following fields to all profile forms: last name, first
+name, middle name, gender, and birthday.
+- __Changed:__ Secretariat accounts can now have a look at any certificates
+that have been generated for any and all certification requestors.
+- __Changed:__ Registry numbers are assigned one per facility by the DOH
+Central Office, according to the program they applied for. It is now
+possible to enter these registry numbers manually after the requesting
+facility has successfully applied for any particular program.
+
+
 ## 20230616
 
-- __Added__ the following fields in the requestor signup form: title, date
-of birth, and gender.
+- __Changed__ the certification request form in the home page to a signup
+request page.
 
 ## 20230609
 
