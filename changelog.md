@@ -1,5 +1,20 @@
 # Changelog
 
+## 20230630
+
+- __Added__ an "active" field for signatories. Signatories that are not
+active will not appear for selection when generating letters.
+- __Added__ another page for admin users within which they can view all
+activity logs that have been made by the system.
+- __Changed:__ After accomplishing the ABTC and TB-DOTS tools, you will now
+be redirected to the dashboard after 5 seconds.
+- __Changed:__ Pages that utilize a three-column cellular layout for lists
+now have the same look.
+- __Changed:__ Letters of intent are now required to be uploaded by
+facilities as part of accomplishing assessment tools and can also be viewed
+by the Secretariat and the Certifiers.
+- __Fixed__ some problems with generated ABTC certificate.
+
 ## 20230623
 
 - __Added__ functionality for Secretariat users to be able to confirm
