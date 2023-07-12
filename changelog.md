@@ -1,5 +1,21 @@
 # Changelog
 
+## 20230707
+
+- __Added__ search and pagination functionality for both local chief
+executives and user list in the admin module.
+- __Added__ a legend detailing what status some icons signify in the
+TB-DOTS assessment tool.
+- __Added__ functionality that allows facilities to see a list of reasons
+given by the Secretariat for why their request has been marked for
+compliance.
+- __Added__ a loading icon that appears while a reply letter is being
+generated.
+- __Changed:__ Two types of statuses are now tracked for all certification
+requests: the _request status_ and the _assessment status._
+- __Fixed:__ Email notifications are now being sent to the again after
+accomplishing any assessment tool for any program.
+
 ## 20230630
 
 - __Added__ an "active" field for signatories. Signatories that are not
