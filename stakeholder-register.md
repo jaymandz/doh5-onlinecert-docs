@@ -1,6 +1,6 @@
 # Stakeholder Register
 
-_As of May 8, 2023_
+_As of June 6, 2023_
 
 ## Team Members
 
@@ -15,17 +15,18 @@ _As of May 8, 2023_
 
 ### Local Health Support Division
 
-- ABTC: Ms. Ruby Jeremias
+- ABTC: Ms. Aida Ruby D. Jeremias
 - AFHF: Ms. Ma. June Robles
 - FSFPC: Ms. Pamela G. Pabit
 - MBFHFI: Ms. Christine Espiritu
 - PHIVCF: Ms. Lilian Rose Encisa
-- TB-DOTS: Ms. Ruby Jeremias
+- TB-DOTS: Ms. Aida Ruby D. Jeremias
 - Others:
   - Dr. Jannish Alcala-Arellano
   - Samuel David Banico
-  - Maita Bobis
+  - Dr. Maita U. Bobis (Family Health Cluster Head)
   - Dr. Monrey Mancilla
   - Windalyn Mancilla
   - Myrna Rayala
   - Jaime Villanueva
+  - Pamela Santelices
